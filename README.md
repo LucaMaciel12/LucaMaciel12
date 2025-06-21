@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luca Maciel
 
-<!--
-**LucaMaciel12/LucaMaciel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** com formação técnica em Eletrônica pela ETEC Jorge Street.  
+💻 Apaixonado por tecnologia, estou construindo minha carreira como **desenvolvedor backend** com foco em **C#**, **SQL** e **Java**.  
+📈 Sempre buscando evoluir com projetos práticos, boas práticas de programação e metodologias ágeis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- 💬 Linguagens: **C#**, **SQL**, **Java**, **Python**
+- 🔧 Ferramentas: **Visual Studio**, **MySQL Workbench**, **Power BI**
+- 🌐 Conceitos: Backend, Lógica de Programação, Educação Financeira
+- 📊 Certificações: Excel Avançado, Fundamentos em Programação para E-commerce, Lógica de Programação, Microsoft Power BI
+
+---
+<div>
+  <a href="https://github.com/LucaMaciel12">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaMaciel12&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaMaciel12&layout=compact&langs_count=7&theme=highcontrast"/>
+  </a>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,cs)](https://skillicons.dev)
+
+
+---
+
+<div> 
+  <a href="mailto:lucamaciel15nasc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/luca-maciel-9328b2363" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
