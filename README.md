@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Luca Maciel
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** com formação técnica em Eletrônica pela ETEC Jorge Street.  
-💻 Apaixonado por tecnologia, estou construindo minha carreira como **desenvolvedor backend** com foco em **C#**, **SQL**, **Java**, **Python**.  
+💻 Apaixonado por tecnologia, estou construindo minha carreira como **desenvolvedor backend** com foco em **C#**, **SQL**, **Java** e **Python**.  
 📈 Sempre buscando evoluir com projetos práticos, boas práticas de programação e metodologias ágeis.
 
 ---
