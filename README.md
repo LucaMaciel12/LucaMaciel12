@@ -1,22 +1,24 @@
 # 👋 Olá! Eu sou o Luca Maciel
 
 🎓 Estudante de **Ciência da Computação** com formação técnica em Eletrônica pela ETEC Jorge Street.  
-💻 Apaixonado por tecnologia, estou construindo minha carreira como **desenvolvedor** com foco em **C#**, **Pytho**, **C**, **SQL**, **HTML5** e **CSS3**.  
+💻 Apaixonado por tecnologia, estou construindo minha carreira como **desenvolvedor** com foco em **C#**, **Python**, **C**, **SQL**, **HTML5** e **CSS3**.  
 📈 Sempre buscando evoluir com projetos práticos, boas práticas de programação e metodologias ágeis.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💬 Linguagens: *C#**, **Pytho**, **C**, **SQL**, **HTML5**, **CSS3**
+- 💬 Linguagens: **C#**, **Pytho**, **C**, **SQL**, **HTML5**, **CSS3**
 - 🔧 Ferramentas: **Visual Studio**, **MySQL Workbench**, **SQL Server**, **VS Code**
 - 🌐 Conceitos: Backend, Lógica de Programação, Educação Financeira
-- 📊 Certificações: Excel Avançado, Fundamentos em Programação para E-commerce, Lógica de Programação
+- 📊 Certificações: Excel, Fundamentos em Programação para E-commerce, Lógica de Programação
 
 ---
-<div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaMaciel12&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaMaciel12&layout=compact&langs_count=7&theme=highcontrast"/>
+<div align="center">
+  <a href="https://github.com/LucaMaciel12">
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucaMaciel12&show_icons=true&theme=highcontrast"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=LucaMaciel12&layout=compact&langs_count=7&theme=highcontrast"/>
+  </a>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,c,css,mysql,cs,py)](https://skillicons.dev)
