@@ -15,9 +15,7 @@
 
 ---
 
-
 [![My Skills](https://skillicons.dev/icons?i=html,c,css,mysql,cs,py)](https://skillicons.dev)
-
 
 ---
 
