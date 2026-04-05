@@ -8,17 +8,15 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💬 Linguagens: **C#**, **Pytho**, **C**, **SQL**, **HTML5**, **CSS3**
+- 💬 Linguagens: **C#**, **Python**, **C**, **SQL**, **HTML5**, **CSS3**
 - 🔧 Ferramentas: **Visual Studio**, **MySQL Workbench**, **SQL Server**, **VS Code**
 - 🌐 Conceitos: Backend, Lógica de Programação, Educação Financeira
 - 📊 Certificações: Excel, Fundamentos em Programação para E-commerce, Lógica de Programação
 
 ---
-<div align="center">
-  <a href="https://github.com/LucaMaciel12">
+<div>
     <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucaMaciel12&show_icons=true&theme=highcontrast"/>
     <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=LucaMaciel12&layout=compact&langs_count=7&theme=highcontrast"/>
-  </a>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,c,css,mysql,cs,py)](https://skillicons.dev)
