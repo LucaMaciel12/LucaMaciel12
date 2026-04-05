@@ -14,10 +14,7 @@
 - 📊 Certificações: Excel, Fundamentos em Programação para E-commerce, Lógica de Programação
 
 ---
-<div>
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucaMaciel12&show_icons=true&theme=highcontrast"/>
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=LucaMaciel12&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,c,css,mysql,cs,py)](https://skillicons.dev)
 
