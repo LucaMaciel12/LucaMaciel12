@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Luca Maciel
 
 🎓 Estudante de **Ciência da Computação** com formação técnica em Eletrônica pela ETEC Jorge Street.  
-💻 Apaixonado por tecnologia, estou construindo minha carreira como **desenvolvedor** com foco em **C#**, **Python**, **C**, **SQL**, **HTML5** e **CSS3**.  
+💻 Apaixonado por tecnologia, estou construindo minha carreira com foco em **C#**, **C**, **SQL**, **HTML5** e **CSS3**.  
 📈 Sempre buscando evoluir com projetos práticos, boas práticas de programação e metodologias ágeis.
 
 ---
