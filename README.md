@@ -8,8 +8,8 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💬 Linguagens: **SQL**, **C#**, **Python**, **C**, **HTML5**, **CSS3**
-- 🔧 Ferramentas: **MySQL Workbench**, **SQL Server**, **VS Code**, **Visual Studio** 
+- 💬 Linguagens: **SQL**, **HTML5**, **CSS3**, **C**, **C#**, **Python**
+- 🔧 Ferramentas: **SQL Server**, **MySQL Workbench**, **VS Code**, **Visual Studio** 
 - 🌐 Conceitos: Backend, Lógica de Programação, Educação Financeira
 - 📊 Certificações: Excel, Fundamentos em Programação para E-commerce, Lógica de Programação
 
